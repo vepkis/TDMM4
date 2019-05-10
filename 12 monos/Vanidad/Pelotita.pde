@@ -47,7 +47,6 @@ class Pelotita
     //float distyNucleo= dist (tx, ty, (tz+movPelotita)+tam/2, tx, ty, mappy );
     popMatrix();
 
-    //  println( mappy+"____"+disty);
   }
 
 

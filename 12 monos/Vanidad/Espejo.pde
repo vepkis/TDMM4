@@ -3,6 +3,10 @@ class Espejo
   float tx, ty, tz, rx, ry, rz;
   float tam;
   boolean control= false;
+
+  color farbe= color(200, 60, 0, 255);
+
+
   Espejo()
   {
     tx=0;
@@ -13,6 +17,8 @@ class Espejo
     rz=0;
 
     tam=0;
+
+    farbe= color(200, 60, 0, 255);
   }
 
   Espejo(float tx_, float ty_, float tz_, float rx_, float ry_, float rz_)
@@ -25,6 +31,8 @@ class Espejo
     rz=rz_;
 
     tam=0;
+
+    farbe= color(255, 100, 0, 255);
   }
 
 
@@ -32,11 +40,22 @@ class Espejo
   {
 
     pushMatrix();  
+    rotateX(radians(rx));
     rotateY(radians(ry));
-    fill(0);
-    rect(0, 0, width, height);
-    translate(tx, ty, tz+1);
+    rotateZ(radians(rz));
+
     fill(255);
+    rect(0, 0, width, height);
+    dibujaCirculo();
+    popMatrix();
+  }
+
+
+  void dibujaCirculo()
+  {
+    pushMatrix();
+    translate(tx, ty, tz+1);
+    fill(farbe);
     ellipse(width/2, height/2, 100+tam, 100+tam);
     popMatrix();
   }

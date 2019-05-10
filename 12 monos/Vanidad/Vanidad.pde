@@ -13,7 +13,7 @@ void setup ()
 void draw ()
 
 {
-  background(200);
+  background(0);
   m.dibuja();
 }
 
