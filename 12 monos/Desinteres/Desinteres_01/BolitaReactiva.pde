@@ -2,14 +2,22 @@ class BolitaReactiva
 {
 
   float px, py, tam;
-  float vel, disty,dir;
+  float angulo;
+  float vel, disty, dir;
+
+  float distyX, distyY, umbral;
+
+
   BolitaReactiva()
   {
     px=random(0, width);
     py=random(0, height);
-    vel=0.1;
+    vel=4;
     tam= random(20, 80);
     disty=0;
+
+    umbral=5;
+
     noStroke();
   }
 
@@ -21,6 +29,9 @@ class BolitaReactiva
     vel=0.2;
     tam=tam_;
     disty=0;
+    
+    umbral=5;
+    
     noStroke();
   }
 
@@ -30,6 +41,8 @@ class BolitaReactiva
   {
     fill(0);
     ellipse(px, py, tam, tam);
+
+    println(px);
   }
 
 
@@ -40,25 +53,26 @@ class BolitaReactiva
     py=py_;
   }
 
-void acciona()
-{
-     px = vel * cos( dir );
-    py = vel * sin( dir ); 
-}
 
+  void sumaPunto()
+  {
+    if (disty>umbral)
+    {
+      px+=vel*cos(angulo);
+    }
+    if (disty>umbral)
+    {
+      py+=vel*sin(angulo);
+    }
+  }
   void evaluaDistancia(float p1_, float p2_)
 
   {
-   disty= dist(p1_, p2_, px, py);
-      dir = atan2( p2_-py, p1_-px );
-    if (disty> tam)
-    {
-      px+--;
-      py--;
-    }
-    
-    
-       px = px + dx;
-    py = py + dy;
+    disty= dist(p1_, p2_, px, py);
+    distyX= (p1_-px);
+    distyY= (p2_-py);    
+
+    angulo = atan2( p2_-py, p1_-px );
+    sumaPunto();
   }
 }
