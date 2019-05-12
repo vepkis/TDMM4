@@ -1,8 +1,9 @@
 Comportamiento comp;
 void setup()
 {
-  size (600, 600);
+  size (800, 800);
   comp= new Comportamiento();
+  noCursor();
 }
 
 void draw ()

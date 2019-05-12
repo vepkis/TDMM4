@@ -14,6 +14,21 @@ class BolitaReactiva
     vel=4;
     disty=0;
 
+    umbral=10;
+
+    pPosX=posX;
+    pPosY=posY;
+    noStroke();
+  }
+
+  BolitaReactiva(float posX_, float posY_)
+  {
+    tam= random(10, 40);
+    posX=posX_;
+    posY=posY_;
+    vel=4;
+    disty=0;
+
     umbral=5;
 
 
@@ -21,7 +36,6 @@ class BolitaReactiva
     pPosY=posY;
     noStroke();
   }
-
 
   BolitaReactiva(float px_, float py_, float tam_)
   {
@@ -43,20 +57,28 @@ class BolitaReactiva
     fill(0);
     ellipse(posX, posY, tam, tam);
 
-    //   println(disty);
-
-    println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
+    //   println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
   }
 
 
 
-  void setPosicion(float posX_, float posY_)
+  void setPosXY(float posX_, float posY_)
   {
     posX= posX_;
     posY=posY_;
   }
 
+  void setPosXYPrevia(float pPosX_, float pPosY_)
+  {
+    pPosX= pPosX_;
+    pPosY=pPosY_;
+  }
+  void setSumaPosXY(float posX_, float posY_)
+  {
 
+    posX+= posX_;
+    posY+=posY_;
+  }
   void sumaPunto()
   {
     if (disty>umbral)
@@ -110,5 +132,24 @@ class BolitaReactiva
   {
     float [] posXY= new float [] {posX, posY};
     return posXY;
+  }
+
+  float [] getPPosXY()
+  {
+    float [] pPosXY= new float [] {pPosX, pPosY};
+    return pPosXY;
+  }
+
+
+  float getDisty()
+  {
+    println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
+
+    return disty;
+  }
+
+  float getTam()
+  {
+    return tam;
   }
 }
