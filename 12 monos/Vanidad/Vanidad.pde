@@ -2,11 +2,12 @@ Mundo m;
 
 void setup ()
 {
-  size(600, 600, P3D);
+  size(800, 800, P3D);
 
   m= new Mundo();
   noStroke();
   smooth();
+  noCursor();
 }
 
 
