@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 23 19:12:32 ART 2019
+0.baseType=DIRECTORY
+0.base=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/Desinteres/Desinteres_02/android/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

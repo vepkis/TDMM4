@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:120-159
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:94-119
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:2:70-93
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:3:5-10:19
+MERGED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:3:48-77
+	android:icon
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:3:18-47
+activity#processing.test.desinteres_04.MainActivity
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:4:9-9:20
+	android:theme
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:4:48-115
+	android:name
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:4:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:6:17-68
+	android:name
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:7:17-76
+	android:name
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml:7:27-74
+uses-sdk
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Desinteres/Desinteres_04/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/abd0542840c250ff503f15b4b2033f60/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/848bc52ffda475665e3de4d5c227907b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/6fc8c3485dbc5c00b72506acda7e9a8e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d0351bc9c98442e581b29e680cc99218/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8dd71dfc5140014c4e8eb6239cdc4fd5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/5fa70eac42777c99f2b8134733259c17/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/628e7c677105aa2cd735316d8a4b43c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/c8b84385e7f47bbbabbdb87a5bb4c68e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/8ad538d150f57c8c90f45628a65b0329/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2396d136be07e08832a516ec7c4eb860/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/2d5771f45af048b0d03ff1ed2d5c5f98/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/d235471c0cc02d0e6dfbfbbd52d19056/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/f88e25cbd9407b0a5333b070e40493c6/AndroidManifest.xml:27:13-51
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.1.0] /Users/kryrk/.gradle/caches/transforms-2/files-2.1/70c30a41de4e637faad0465c90a53ad3/AndroidManifest.xml:11:13-55

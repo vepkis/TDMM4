@@ -1,0 +1,4 @@
+#Thu May 23 19:51:55 ART 2019
+base.0=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/Individualismo/Individualismo_01/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
