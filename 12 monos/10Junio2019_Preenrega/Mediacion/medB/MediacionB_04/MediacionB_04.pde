@@ -5,7 +5,7 @@ void setup()
   //size (800, 800); 
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
 
   noStroke();

@@ -5,7 +5,7 @@ void setup ()
   //  size(800, 800, P3D);
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------  
   m= new Mundo();
   noStroke();

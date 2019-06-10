@@ -4,7 +4,7 @@ void setup()
   //fullScreen();
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   comp= new Comportamiento();
   // noCursor();

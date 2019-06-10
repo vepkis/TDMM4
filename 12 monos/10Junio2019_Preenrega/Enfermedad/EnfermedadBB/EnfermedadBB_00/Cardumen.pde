@@ -186,7 +186,17 @@ class Cardumen
 
     println(disty);
   }
+  void setHayMovimiento(boolean hayMovimiento_)
+  {
+    hayMovimiento=hayMovimiento_;
+  }
 
+
+  float [] getZeroXY()
+  {
+    float [] zeroXY= {remmy_0[0].getTxTy()[0], remmy_0[0].getTxTy()[1]};
+    return zeroXY;
+  }
 
 
   boolean getHayMovimiento() {

@@ -25,8 +25,8 @@ public void setup () {
   // 
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
-  ///---------------------
+  orientation(LANDSCAPE);
+  ///---------------------  
 
   ellipseMode (CENTER); 
   rectMode (CENTER); 
@@ -92,7 +92,7 @@ class Zona {
     radio = tam/2;
     posDef = -tam;   
 
-    vel=3;
+    vel=4;
 
 
     posellipseC = width;
@@ -116,7 +116,7 @@ class Zona {
 
   public void dibujar () {
     background (fondo);
-    fill (0xff828386);
+    fill (130, 131, 134, 20);
     rect (width/2, height/2, width, 160);
 
     // primer sector
@@ -191,7 +191,7 @@ class Zona {
         posL = width + tam/2;
         posellipseC = width;
         estadoC = "reinicioC";
-        fondo = color(255);
+        fondo = color(238);
       }
     }
   }  
@@ -209,7 +209,7 @@ class Zona {
         posH = width + tam/2;  
         posellipseB= width;
         estadoB = "reinicioB";
-        fondo = color(255);
+        fondo = color(238);
       }
     }
   } 
@@ -227,7 +227,7 @@ class Zona {
         posD = width + tam/2; 
         posellipseA= width;
         estadoA = "reinicioA";
-        fondo = color(255);
+        fondo = color(238);
       }
     }
   } 
@@ -237,7 +237,7 @@ class Zona {
     println (distanciaCentro);   
 
     if (distanciaCentro  <=  radio  ) {
-      fondo = color (0xffF4C1B8);
+      fondo = color (244, 193, 184, 1);
     }
   }
 
@@ -245,13 +245,13 @@ class Zona {
     float distanciaCentro = dist (width/2, height/2, posellipseB, height/2);
 
     if (distanciaCentro <=  radio) {
-      fondo = color (0xffCBF4B8);
+      fondo = color (203, 244, 184, 1);
     }
   }
   public void cambiaColorC() {
     float distanciaCentro = dist (width/2, height/2, posellipseC, height/2);    
     if (distanciaCentro <= radio  ) {
-      fondo = color (0xffB8D1F4);
+      fondo = color (184, 209, 244, 1);
     }
   }
 }   

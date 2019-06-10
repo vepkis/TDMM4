@@ -1,4 +1,4 @@
-#Mon Jun 10 02:30:35 ART 2019
+#Mon Jun 10 07:47:39 ART 2019
 base.0=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Enfermedad/EnfermedadBB/EnfermedadBB_00/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -29,7 +29,7 @@ public void setup() {
 
   ///---------------------
   
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   p1 = new Esferas();
 

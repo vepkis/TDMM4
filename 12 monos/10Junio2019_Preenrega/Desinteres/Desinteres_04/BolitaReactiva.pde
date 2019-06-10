@@ -3,8 +3,9 @@ class BolitaReactiva
 
   float posX, posY, tam, pPosX, pPosY;
   float angulo, anguloRegreso;
-  float vel, disty, distyRegreso, dir, umbral;
+  float vel, disty, distyRegreso, distyComodin, dir, umbral;
 
+  boolean llego=false, llegoComodin;
 
   BolitaReactiva()
   {
@@ -18,6 +19,8 @@ class BolitaReactiva
 
     pPosX=posX;
     pPosY=posY;
+    llegoComodin=false;
+
     noStroke();
   }
 
@@ -34,6 +37,8 @@ class BolitaReactiva
 
     pPosX=posX;
     pPosY=posY;
+    llegoComodin=false;
+
     noStroke();
   }
 
@@ -44,8 +49,10 @@ class BolitaReactiva
     vel=0.2;
     tam=tam_;
     disty=0;
-
+    distyComodin=disty;
     umbral=5;
+
+    llegoComodin=false;
 
     noStroke();
   }
@@ -79,24 +86,29 @@ class BolitaReactiva
   }
   void sumaPunto()
   {
-    if (disty>umbral)
+    if (disty>=umbral)
     {
       posX+=vel*cos(angulo);
     }
-    if (disty>umbral)
+    if (disty>=umbral)
     {
       posY+=vel*sin(angulo);
+    }
+    if (disty<umbral && llego!=llegoComodin)
+    {
+      llego=true;
+      rect(100, 100, 400, 50);
     }
   }
 
   void regresaPrevio()
   {
 
-    if (distyRegreso>disty)
+    if (distyRegreso>1.5)
     {
       posX-=vel*cos(anguloRegreso);
     }
-    if (distyRegreso>disty)
+    if (distyRegreso>1.5)
     {
       posY-=vel*sin(anguloRegreso);
     }
@@ -107,6 +119,11 @@ class BolitaReactiva
 
   {
     disty= dist(p1_, p2_, posX, posY);
+  }
+
+  void guardaDistyComodin()
+  {
+    distyComodin=disty;
   }
 
   void evaluaDistanciaDos(float p1_, float p2_)
@@ -126,6 +143,11 @@ class BolitaReactiva
     regresaPrevio();
   }
 
+  void setLlegoComodin(boolean llegoComodin_)
+  {
+    llegoComodin=llegoComodin_;
+  }
+
   float [] getPosXY()
   {
     float [] posXY= new float [] {posX, posY};
@@ -141,7 +163,7 @@ class BolitaReactiva
 
   float getDisty()
   {
-    println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
+    //   println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
 
     return disty;
   }
@@ -149,5 +171,26 @@ class BolitaReactiva
   float getTam()
   {
     return tam;
+  }
+
+
+  float getDistyComodin()
+  {
+    return distyComodin;
+  }
+
+  boolean getLlego()
+  {
+    return llego;
+  }
+
+  boolean getLlegoComodin()
+  {
+    return llegoComodin;
+  }
+
+  float getUmbral()
+  {
+    return umbral;
   }
 }

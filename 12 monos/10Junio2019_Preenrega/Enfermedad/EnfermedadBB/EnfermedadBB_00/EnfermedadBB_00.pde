@@ -3,7 +3,11 @@ Mundo m;
 void setup ()
 
 {
-  size(900, 900);
+  // size(900, 900);
+  ///---------------------
+  fullScreen();
+  orientation(LANDSCAPE);
+  ///---------------------
   m= new Mundo();
   smooth();
   noStroke();

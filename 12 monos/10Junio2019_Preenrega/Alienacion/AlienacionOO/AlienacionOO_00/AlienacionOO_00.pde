@@ -7,8 +7,8 @@ void setup () {
   // fullScreen();
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
-  ///---------------------
+  orientation(LANDSCAPE);
+  ///---------------------  
 
   ellipseMode (CENTER); 
   rectMode (CENTER); 

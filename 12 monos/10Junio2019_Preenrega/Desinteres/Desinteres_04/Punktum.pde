@@ -11,7 +11,7 @@ class Punktum
     posX=width/2;
     posY=height/2;
     tam=8;
-    umbral=3;
+    umbral=4;//umbral de tiempo
     //   c=color(200, 5, 5);
     c=color(255, 100, 0);
   }
@@ -67,6 +67,11 @@ class Punktum
   void setExiste(boolean existe_)
   {
     existe=existe_;
+  }
+
+  void setCrono(float crono_)
+  {
+    crono=crono_;
   }
 
   boolean getExiste()

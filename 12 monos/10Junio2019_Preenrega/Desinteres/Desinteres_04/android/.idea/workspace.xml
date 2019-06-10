@@ -6,252 +6,132 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17b9fb85-6983-426c-b06c-fb24c6bce5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle____local_aars____Users_kryrk_Documents_Processing3_SketchK__TDMM4_12_monos_10Junio2019_Preenrega_Acoso_AcosoBB_00_03_android_app_libs_processing_core_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_design_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_percent_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_core_ui_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_core_utils_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_fragment_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_android_support_transition_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_google_android_support_wearable_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle____local_aars____Users_kryrk_Documents_Processing3_SketchK__TDMM4_12_monos_10Junio2019_Preenrega_Alienacion_AlienacionOO_AlienacionOO_00_android_app_libs_processing_core_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_design_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_percent_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_core_ui_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_core_utils_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_fragment_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_android_support_transition_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_google_android_support_wearable_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle____local_aars____Users_kryrk_Documents_Processing3_SketchK__TDMM4_12_monos_10Junio2019_Preenrega_Desigualdad_desigualidad_00_android_app_libs_processing_core_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_design_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_percent_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_core_ui_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_core_utils_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_fragment_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_android_support_transition_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_google_android_support_wearable_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_kryrk_Documents_Processing3_SketchK__TDMM4_12_monos_10Junio2019_Preenrega_Desinteres_Desinteres_04_android_app_libs_processing_core_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_percent_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_support_wearable_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle____local_aars____Users_kryrk_Documents_Processing3_SketchK__TDMM4_Android__testy__Hue_22_android_app_libs_processing_core_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_appcompat_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_design_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_percent_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_recyclerview_v7_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_annotations_26_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_core_ui_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_core_utils_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_fragment_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_media_compat_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_v4_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_support_vector_drawable_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_android_support_transition_26_0_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_google_android_support_wearable_2_1_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_google_android_wearable_wearable_2_1_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../../Android_ testy_/Hue_22/android/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Acoso/Acoso_00/Acosadore.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Acoso/Acoso_00/Acoso_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Acoso/Acoso_00/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Acoso/Acoso_00/Narciso.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/AlienacionBB_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/Figuritas.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/data/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/data/rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_00/data/triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/AlienacionBB_01.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/Cardumen.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/class_Remoras.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/data/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/data/rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_01/data/triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/AlienacionBB_02.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/Cardumen.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/class_Remoras.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/data/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/data/rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_02/data/triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/AlienacionBB_03.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/Cardumen.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/class_Remoras.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/data/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/data/rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_03/data/triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/AlienacionBB_04.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/Cardumen.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/class_Remoras.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/data/circle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/data/rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/AlienacionBB/AlienacionBB_04/data/triangle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_00/Alienacion_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_00/Individue.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_01/Alienacion_01.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_01/Individue.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_02/Alienacion_02.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Alienacion/Alienacion_02/Individue.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_00/Desinteres_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_01/BolitaReactiva.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_01/Comportamiento.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_01/Desinteres_01.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_01/Punktum.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_02/BolitaReactiva.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_02/Comportamiento.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_02/Desinteres_02.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Desinteres/Desinteres_02/Punktum.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Enfermedad/Enfermedad_00/Enfermedad_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Enfermedad/Enfermedad_01/Enfermedad_01.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Enfermedad/Enfermedad_01/LineaQuebrada.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Enfermedad/Enfermedad_02/Enfermedad_02.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Enfermedad/Enfermedad_02/LineaQuebrada.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Individualismo/Individualismo_00/BolitaReactiva.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Individualismo/Individualismo_00/Comportamiento.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Individualismo/Individualismo_00/Individualismo_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Individualismo/Individualismo_00/Punktum.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/Mediacion_00/BolitaReactiva.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/Mediacion_00/Generador.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/Mediacion_00/Mediacion_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_00/Flipeador.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_00/MediacionB_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_01/BolitaLoca.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_01/EntradaSalida.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_01/Flipeador.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_01/MediacionB_01.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_01/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_02/BolitaLoca.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_02/EntradaSalida.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_02/Flipeador.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_02/MediacionB_02.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_02/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_03/BolitaLoca.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_03/EntradaSalida.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_03/Flipeador.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_03/MediacionB_03.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Mediacion/medB/MediacionB_03/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_00/Espejo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_00/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_00/Pelotita.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_00/Vanidad_00.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_01/Espacio.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_01/Mundo.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_01/Narciso.pde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Vanidad/Vanidad_01/Vanidad_01.pde" beforeDir="false" />
+    <list default="true" id="5b95944c-ede6-47a6-a80e-16323263c9f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/AcosoBB_00_03.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/AcosoBB_00_03.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/Mundo.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/Mundo.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/7O0qxciP9HfnhUsrq5QuygFolOc=" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/7O0qxciP9HfnhUsrq5QuygFolOc=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/acosobb_00_03/AcosoBB_00_03$Mundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/acosobb_00_03/AcosoBB_00_03$Mundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/acosobb_00_03/AcosoBB_00_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/acosobb_00_03/AcosoBB_00_03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/acosobb_00_03/AcosoBB_00_03$Mundo.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/acosobb_00_03/AcosoBB_00_03$Mundo.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/acosobb_00_03/AcosoBB_00_03.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/acosobb_00_03/AcosoBB_00_03.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/outputs/apk/debug/ACOSO.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/build/outputs/apk/debug/ACOSO.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/src/main/java/processing/test/acosobb_00_03/AcosoBB_00_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/app/src/main/java/processing/test/acosobb_00_03/AcosoBB_00_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Acoso/AcosoBB_00_03/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/AlienacionOO_00.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/AlienacionOO_00.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/znw7L6Pcc1+UDOwlhnfRjh0RQKI=" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/znw7L6Pcc1+UDOwlhnfRjh0RQKI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/alienacionoo_00/AlienacionOO_00$Zona.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/alienacionoo_00/AlienacionOO_00$Zona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/alienacionoo_00/AlienacionOO_00.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/alienacionoo_00/AlienacionOO_00.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/alienacionoo_00/AlienacionOO_00$Zona.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/alienacionoo_00/AlienacionOO_00$Zona.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/alienacionoo_00/AlienacionOO_00.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/alienacionoo_00/AlienacionOO_00.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/outputs/apk/debug/ALIENACION.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/outputs/apk/debug/ALIENACION.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/src/main/java/processing/test/alienacionoo_00/AlienacionOO_00.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/app/src/main/java/processing/test/alienacionoo_00/AlienacionOO_00.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/code/sketch.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/code/sketch.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/fffffffff.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Alienacion/AlienacionOO/AlienacionOO_00/fffffffff.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/YA1EdUPoVzx1rVvG2OYj9JxA2OY=" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/YA1EdUPoVzx1rVvG2OYj9JxA2OY=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desigualidad_00/desigualidad_00.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desigualidad_00/desigualidad_00.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desigualidad_00/desigualidad_00.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desigualidad_00/desigualidad_00.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/outputs/apk/debug/DESIGUALDAD.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/build/outputs/apk/debug/DESIGUALDAD.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/src/main/java/processing/test/desigualidad_00/desigualidad_00.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/app/src/main/java/processing/test/desigualidad_00/desigualidad_00.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/desigualidad_00.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Desigualdad/desigualidad_00/desigualidad_00.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BolitaReactiva.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../BolitaReactiva.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comportamiento.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../Comportamiento.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desinteres_04.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../Desinteres_04.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Punktum.pde" beforeDir="false" afterPath="$PROJECT_DIR$/../Punktum.pde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/EvLJQHRVRm8iG87kADXkLr2+eK4=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/EvLJQHRVRm8iG87kADXkLr2+eK4=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$BolitaReactiva.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$BolitaReactiva.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$Comportamiento.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$Comportamiento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$Punktum.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04$Punktum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/processing/test/desinteres_04/Desinteres_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$BolitaReactiva.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$BolitaReactiva.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$Comportamiento.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$Comportamiento.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$Punktum.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04$Punktum.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/19/processing/test/desinteres_04/Desinteres_04.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/DESINTERES.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/processing/test/desinteres_04/Desinteres_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/processing/test/desinteres_04/Desinteres_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Enfermedad/EnfermedadBB/EnfermedadBB_00/android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Enfermedad/EnfermedadBB/EnfermedadBB_00/android/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,21 +148,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/processing/test/desinteres_04/Desinteres_04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -296,7 +167,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/processing/test/desinteres_04/Desinteres_04.java" />
       </list>
     </option>
   </component>
@@ -312,10 +182,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,18 +271,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="17b9fb85-6983-426c-b06c-fb24c6bce5f8" name="Default Changelist" comment="" />
-      <created>1560143397327</created>
+      <changelist id="5b95944c-ede6-47a6-a80e-16323263c9f6" name="Default Changelist" comment="" />
+      <created>1560160108971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560143397327</updated>
+      <updated>1560160108971</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="838" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3298969" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.3298969" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -442,13 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/processing/test/desinteres_04/Desinteres_04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

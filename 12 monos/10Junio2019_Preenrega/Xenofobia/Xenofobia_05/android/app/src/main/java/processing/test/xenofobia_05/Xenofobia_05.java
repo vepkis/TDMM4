@@ -23,7 +23,7 @@ public void setup()
   // size (1400, 600);
   ///---------------------
   
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   m= new Mundo();
   noStroke();

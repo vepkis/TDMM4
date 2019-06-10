@@ -22,7 +22,7 @@ public void setup()
   //
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   comp= new Comportamiento();
   // noCursor();

@@ -11,7 +11,7 @@ void setup() {
 
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   p1 = new Esferas();
 

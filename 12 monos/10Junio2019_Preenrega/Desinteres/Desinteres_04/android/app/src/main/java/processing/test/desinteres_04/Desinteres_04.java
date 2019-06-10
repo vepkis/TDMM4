@@ -22,7 +22,7 @@ public void setup()
   //  size (800, 800);
   ///---------------------
   
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   comp= new Comportamiento();
 }
@@ -48,8 +48,9 @@ class BolitaReactiva
 
   float posX, posY, tam, pPosX, pPosY;
   float angulo, anguloRegreso;
-  float vel, disty, distyRegreso, dir, umbral;
+  float vel, disty, distyRegreso, distyComodin, dir, umbral;
 
+  boolean llego=false, llegoComodin;
 
   BolitaReactiva()
   {
@@ -63,6 +64,8 @@ class BolitaReactiva
 
     pPosX=posX;
     pPosY=posY;
+    llegoComodin=false;
+
     noStroke();
   }
 
@@ -79,6 +82,8 @@ class BolitaReactiva
 
     pPosX=posX;
     pPosY=posY;
+    llegoComodin=false;
+
     noStroke();
   }
 
@@ -89,8 +94,10 @@ class BolitaReactiva
     vel=0.2f;
     tam=tam_;
     disty=0;
-
+    distyComodin=disty;
     umbral=5;
+
+    llegoComodin=false;
 
     noStroke();
   }
@@ -124,24 +131,29 @@ class BolitaReactiva
   }
   public void sumaPunto()
   {
-    if (disty>umbral)
+    if (disty>=umbral)
     {
       posX+=vel*cos(angulo);
     }
-    if (disty>umbral)
+    if (disty>=umbral)
     {
       posY+=vel*sin(angulo);
+    }
+    if (disty<umbral && llego!=llegoComodin)
+    {
+      llego=true;
+      rect(100, 100, 400, 50);
     }
   }
 
   public void regresaPrevio()
   {
 
-    if (distyRegreso>disty)
+    if (distyRegreso>1.5f)
     {
       posX-=vel*cos(anguloRegreso);
     }
-    if (distyRegreso>disty)
+    if (distyRegreso>1.5f)
     {
       posY-=vel*sin(anguloRegreso);
     }
@@ -152,6 +164,11 @@ class BolitaReactiva
 
   {
     disty= dist(p1_, p2_, posX, posY);
+  }
+
+  public void guardaDistyComodin()
+  {
+    distyComodin=disty;
   }
 
   public void evaluaDistanciaDos(float p1_, float p2_)
@@ -171,6 +188,11 @@ class BolitaReactiva
     regresaPrevio();
   }
 
+  public void setLlegoComodin(boolean llegoComodin_)
+  {
+    llegoComodin=llegoComodin_;
+  }
+
   public float [] getPosXY()
   {
     float [] posXY= new float [] {posX, posY};
@@ -186,7 +208,7 @@ class BolitaReactiva
 
   public float getDisty()
   {
-    println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
+    //   println("distyyy____"+ disty+"distDosss____"+ distyRegreso);
 
     return disty;
   }
@@ -195,22 +217,46 @@ class BolitaReactiva
   {
     return tam;
   }
+
+
+  public float getDistyComodin()
+  {
+    return distyComodin;
+  }
+
+  public boolean getLlego()
+  {
+    return llego;
+  }
+
+  public boolean getLlegoComodin()
+  {
+    return llegoComodin;
+  }
+
+  public float getUmbral()
+  {
+    return umbral;
+  }
 }
 class Comportamiento
 {
-
-  BolitaReactiva [] bolitas= new BolitaReactiva[60];
+  int cant=60;
+  BolitaReactiva [] bolitas= new BolitaReactiva[cant];
   BolitaReactiva boli;
   Punktum p= new Punktum ();
 
+  boolean [] guardaLlegada=new boolean [cant];
+  int comodin=0, cual=0, cualDos= 0;
   float rotacion=0.5f;
   Comportamiento()
   {
     for (int i=0; i< bolitas.length; i++)
     {
       bolitas[i]= new BolitaReactiva();
+      guardaLlegada[i]= false;
     }
-    boli= new BolitaReactiva(random(bolitas[0].getTam(), width/2+bolitas[0].getTam()), random(bolitas[0].getTam(), height/2+bolitas[0].getTam()));
+    boli= new BolitaReactiva(random(bolitas[0].getTam()*2, width/2+bolitas[0].getTam()), random(bolitas[0].getTam(), height/2+bolitas[0].getTam()));
     boli.setPosXYPrevia(boli.getPosXY()[0], boli.getPosXY()[1]);
     boli.setPosXY(boli.getTam()*1.5f, 0);
   }
@@ -236,8 +282,8 @@ class Comportamiento
         bolitas[i].evaluaDistancia(p.getPosXY()[0], p.getPosXY()[1]);
         bolitas[i].evaluaAvance(p.getPosXY()[0], p.getPosXY()[1]);
       }
-      rotacion+=1;
-      //    boli.setSumaPosXY(0.2, 0.3);
+      rotacion+=2.5f;
+
     }
     if (p.getExiste()==false)
     {  
@@ -246,12 +292,18 @@ class Comportamiento
         bolitas[i].evaluaDistanciaDos(bolitas[i].getPosXY()[0], bolitas[i].getPosXY()[1]);
         bolitas[i].evaluaRegreso();
       }
-      rotacion+=1;
-      //     boli.setSumaPosXY(-0.2, -0.3);
-    }
 
+      p.setCrono(0);
+      rotacion+=2.5f;
+    }
     p.creaPunktum();
+
   }
+
+
+
+
+
 
   public void mousePressed()
   {
@@ -277,7 +329,7 @@ class Punktum
     posX=width/2;
     posY=height/2;
     tam=8;
-    umbral=3;
+    umbral=4;//umbral de tiempo
     //   c=color(200, 5, 5);
     c=color(255, 100, 0);
   }
@@ -333,6 +385,11 @@ class Punktum
   public void setExiste(boolean existe_)
   {
     existe=existe_;
+  }
+
+  public void setCrono(float crono_)
+  {
+    crono=crono_;
   }
 
   public boolean getExiste()

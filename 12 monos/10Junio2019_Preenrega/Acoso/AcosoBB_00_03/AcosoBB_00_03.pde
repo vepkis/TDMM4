@@ -4,7 +4,7 @@ void setup ()
   //size (400, 400);
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------  
   m= new Mundo();
   smooth();

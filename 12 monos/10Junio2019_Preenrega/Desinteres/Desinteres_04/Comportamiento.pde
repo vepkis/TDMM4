@@ -1,18 +1,21 @@
 class Comportamiento
 {
-
-  BolitaReactiva [] bolitas= new BolitaReactiva[60];
+  int cant=60;
+  BolitaReactiva [] bolitas= new BolitaReactiva[cant];
   BolitaReactiva boli;
   Punktum p= new Punktum ();
 
+  boolean [] guardaLlegada=new boolean [cant];
+  int comodin=0, cual=0, cualDos= 0;
   float rotacion=0.5;
   Comportamiento()
   {
     for (int i=0; i< bolitas.length; i++)
     {
       bolitas[i]= new BolitaReactiva();
+      guardaLlegada[i]= false;
     }
-    boli= new BolitaReactiva(random(bolitas[0].getTam(), width/2+bolitas[0].getTam()), random(bolitas[0].getTam(), height/2+bolitas[0].getTam()));
+    boli= new BolitaReactiva(random(bolitas[0].getTam()*2, width/2+bolitas[0].getTam()), random(bolitas[0].getTam(), height/2+bolitas[0].getTam()));
     boli.setPosXYPrevia(boli.getPosXY()[0], boli.getPosXY()[1]);
     boli.setPosXY(boli.getTam()*1.5, 0);
   }
@@ -38,8 +41,8 @@ class Comportamiento
         bolitas[i].evaluaDistancia(p.getPosXY()[0], p.getPosXY()[1]);
         bolitas[i].evaluaAvance(p.getPosXY()[0], p.getPosXY()[1]);
       }
-      rotacion+=1;
-      //    boli.setSumaPosXY(0.2, 0.3);
+      rotacion+=2.5;
+
     }
     if (p.getExiste()==false)
     {  
@@ -48,12 +51,18 @@ class Comportamiento
         bolitas[i].evaluaDistanciaDos(bolitas[i].getPosXY()[0], bolitas[i].getPosXY()[1]);
         bolitas[i].evaluaRegreso();
       }
-      rotacion+=1;
-      //     boli.setSumaPosXY(-0.2, -0.3);
-    }
 
+      p.setCrono(0);
+      rotacion+=2.5;
+    }
     p.creaPunktum();
+
   }
+
+
+
+
+
 
   void mousePressed()
   {

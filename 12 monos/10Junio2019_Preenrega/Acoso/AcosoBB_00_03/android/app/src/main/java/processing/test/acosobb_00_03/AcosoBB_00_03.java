@@ -22,7 +22,7 @@ public void setup ()
   //size (400, 400);
   ///---------------------
   
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------  
   m= new Mundo();
   
@@ -188,7 +188,7 @@ class Mundo
     for (int i=0; i< eDoble.length; i++)
     {
       eDoble[i]= new Esferita (random(tamVictim, width-tamVictim), random(tamVictim, height-tamVictim), random(tamVictim, tamVictim*4), color(30, 30, 30), 255);
-      eDoble[i].setUmbral(tamVictim*4);
+      eDoble[i].setUmbral(tamVictim*6);
       eDoble[i].setVel(8);
     }
   }

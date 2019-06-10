@@ -23,7 +23,7 @@ public void setup()
   //size (800, 800); 
   ///---------------------
   
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
 
   noStroke();

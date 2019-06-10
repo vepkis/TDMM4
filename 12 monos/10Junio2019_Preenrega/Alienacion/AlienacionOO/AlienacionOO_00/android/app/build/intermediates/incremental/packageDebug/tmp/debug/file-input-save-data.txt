@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jun 10 02:06:01 ART 2019
+#Mon Jun 10 06:44:22 ART 2019
 0.baseType=DIRECTORY
 0.base=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Alienacion/AlienacionOO/AlienacionOO_00/android/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex

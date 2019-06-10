@@ -8,7 +8,7 @@ void setup() {
   //  fullScreen();
   ///---------------------
   fullScreen();
-  orientation(PORTRAIT);
+  orientation(LANDSCAPE);
   ///---------------------
   objeto = new Esferas();
   noStroke();
