@@ -22,10 +22,11 @@ class Mundo
   {
     //    c.setPxPy(mouseX, mouseY);
     c.dibuja();
-    f.dibuja();
-    for (int i =0; i< fant.length; i++)
-    {
-      fant[i].dibuja();
-    }
+    /*  f.dibuja();
+     for (int i =0; i< fant.length; i++)
+     {
+     fant[i].dibuja();
+     }
+     */
   }
 }//cierra class Mundo

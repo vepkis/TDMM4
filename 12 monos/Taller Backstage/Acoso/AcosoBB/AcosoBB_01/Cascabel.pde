@@ -41,7 +41,7 @@ class Cascabel
     esferita();
     presion();
     detectaDir();
-    accionaZona();
+    //  accionaZona();
   }
 
   void zona()
@@ -156,8 +156,6 @@ class Cascabel
       pZonaX-=vel*cos(angulo);
       pZonaY-=vel*sin(angulo);
     }
-    
-    
   }
 
   void setPxPy(float px_, float py_)
