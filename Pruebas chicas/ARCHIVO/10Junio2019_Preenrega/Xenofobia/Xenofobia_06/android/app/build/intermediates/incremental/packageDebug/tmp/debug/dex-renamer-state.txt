@@ -1,0 +1,4 @@
+#Thu Jun 20 04:25:36 ART 2019
+base.0=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Xenofobia/Xenofobia_06/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,4 +1,0 @@
-#Thu May 23 19:12:32 ART 2019
-base.0=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/Desinteres/Desinteres_02/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,0 +1,21 @@
+body {font-family: 'Kanit', sans-serif; color:#85ffe7; background: url(../images/wheat.png); background-attachment: fixed;}
+
+.container {max-width: 1200px; margin: 0 auto; background-color: #4a4a4acc; box-sizing: border-box; }
+
+h1,h2 {text-align: center;}
+h1 {font-size: 7vw; font-weight:800; letter-spacing: 10px; color: color:#30d6c1; margin-bottom: -5px; padding-top: 50px; }
+h2 {line-height: 22px; margin-bottom: 45px; font-size: 18px; font-weight: 400; padding: 10px 20px;}
+
+.galeria {font-size: 0px; margin:50px 0;}
+.galeria img {width: 33.33%}
+.galeria img:hover {filter: blur(1px) brightness(60%);}
+
+
+/*footer*/
+footer {text-align: center; padding: 30px 0; font-size: 20px;}
+
+.image-link {
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: zoom-in;
+}

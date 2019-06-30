@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jun 20 04:25:36 ART 2019
+0.baseType=DIRECTORY
+0.base=/Users/kryrk/Documents/Processing3 SketchK_/TDMM4/12 monos/10Junio2019_Preenrega/Xenofobia/Xenofobia_06/android/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
